@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Manpreet Singh
-- 👀 I’m interested in programming projects
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning html,css,python 
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mxpreet007@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: life's pretty good:)
